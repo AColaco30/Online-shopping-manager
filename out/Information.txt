@@ -1,0 +1,22 @@
+Regular+Andre Colaco+Av. Jose+andre@gmail.com+917237532+03/09/2002
+Regular+Rafael Henriques+Av. Luis+rafael@gmail.com+927410538+22/01/2002
+Frequent+Lino Varela+Av. Cardoso+lino@gmail.com+917852384+20/03/2002
+Frequent+Hugo Priva+Av. Paiva+hugo@gmail.com+930275397+28/11/2002
+Frequent+Ricardo Quintela+Av. Pedro+ricardo@gmail.com+902357194+06/07/2002
+
+Food+pizza+1+10+2.30+0.40+35
+Food+bolachas+2+30+1.00+0.30+20
+Food+carne+3+15+4.00+0.10+10
+Cleaning+sabao+11+15+1.70+5
+Cleaning+detergente+12+10+2.50+7
+Cleaning+desinfetante+13+3+1.99+9
+Furniture+cadeira+21+5+5.0+1.75+0.70+0.5+2.30
+Furniture+armario+22+3+15.0+2.30+1.70+0.75+10.50
+Furniture+mesa+23+8+10.0+1.30+2.50+1.70+3.40
+
+Pay3Get4+pizza+03/12/2021+07/12/2021
+PayLess+carne+05/12/2021+11/12/2021
+Pay3Get4+detergente+15/12/2021+23/12/2021
+PayLess+sabao+07/12/2021+17/12/2021
+PayLess+cadeira+06/12/2021+13/12/2021
+PayLess+mesa+12/12/2021+20/12/2021
