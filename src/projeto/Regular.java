@@ -2,12 +2,10 @@
 
 package projeto;
 
-import java.io.Serializable;
-
 /**
  * Subclass that contains a regular client.
  */
-public class Regular extends Client implements Serializable {
+public class Regular extends Client {
 
     /**
      * Transport price of the client´s cart.

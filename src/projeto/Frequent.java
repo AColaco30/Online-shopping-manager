@@ -2,12 +2,10 @@
 
 package projeto;
 
-import java.io.Serializable;
-
 /**
  * Subclass that contains a frequent client.
  */
-public class Frequent extends Client implements Serializable {
+public class Frequent extends Client {
 
     /**
      * Transport price of the client´s cart.
