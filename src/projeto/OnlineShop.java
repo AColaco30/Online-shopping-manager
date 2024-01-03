@@ -96,6 +96,7 @@ public class OnlineShop {
      *
      * @param name name of the object file.
      */
+    @SuppressWarnings("unchecked")
     private void readObjFile(String name) {
         File f = new File(name + ".obj");
 
